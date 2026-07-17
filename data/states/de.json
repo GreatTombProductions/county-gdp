@@ -1,0 +1,1 @@
+{"state": "DE", "state_name": "Delaware", "counties": [{"fips": "10003", "name": "New Castle", "total_gdp": 75963832, "yoy_change": 6.6}, {"fips": "10005", "name": "Sussex", "total_gdp": 23355694, "yoy_change": 9.7}, {"fips": "10001", "name": "Kent", "total_gdp": 11652246, "yoy_change": 8.2}], "count": 3}

@@ -1,0 +1,1 @@
+{"state": "HI", "state_name": "Hawaii", "counties": [{"fips": "15003", "name": "Honolulu", "total_gdp": 87066455, "yoy_change": 5.5}, {"fips": "15001", "name": "Hawaii", "total_gdp": 12193115, "yoy_change": 6.7}, {"fips": "15007", "name": "Kauai", "total_gdp": 5552396, "yoy_change": 4.5}], "count": 3}
